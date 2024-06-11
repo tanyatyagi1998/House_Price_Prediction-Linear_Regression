@@ -1,1 +1,2 @@
-
+# Problem Statement
+The House Price Prediction project aims to predict the selling prices of houses based on various features such as location, size, number of rooms, and other characteristics. Accurate house price predictions are crucial for buyers, sellers, and real estate professionals to make informed decisions. By leveraging historical data and advanced machine learning techniques, this project seeks to develop a model that can estimate house prices with high accuracy.
